@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently a college freshman in electrical and computer engineering interested in computer architecture!
+🌱 I’m currently a college freshman in electrical and computer engineering interested in computer architecture!  
 🔭 I’m currently learning the basics of computer science!
 
 <!--
