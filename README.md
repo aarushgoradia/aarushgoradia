@@ -1,6 +1,6 @@
 ### Hi there 👋
-🌱 I’m currently a college sophmore in electrical and computer engineering interested in computer architecture!  
-🔭 I’m currently learning the basics of verilog and C!
+🌱 I’m currently a Sophomore in Electrical and Computer engineering interested in computer architecture!  
+🔭 I’m currently learning Verilog and C!
 
 <!--
 **aarushgoradia/aarushgoradia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
