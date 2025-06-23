@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently a Sophomore in Electrical and Computer engineering interested in computer architecture!  
+🌱 I’m currently a Junior in Electrical and Computer engineering interested in computer architecture!  
 🔭 I’m currently learning SystemVerilog and C++!
 
 <!--
