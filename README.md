@@ -14,20 +14,21 @@ I'm passionate about building the next generation of computing systems and bridg
 
 ## 💼 Experience
 
-- **Technology Development Intern, Advanced Microfoundry (Singapore)**
+- **Technology Development Intern, Advanced Microfoundry**
   - Developed a Python & C++-based program to automate preliminary checks on GDS files for fabrication requirements, transforming a previously manual process and reducing review time from hours to minutes.
   - Created a tool using Python and KLayout to identify optimal wafer separation strategies for multi-project wafers.
   - Collaborated with fabrication and design teams to embed automated validation tools into the tape-out workflow, focusing on the creation of efficient DRC scripts
+ 
+- **Researcher, Integrated Microsystems Research Lab (Sengputa Lab), Princeton University**
+  - Scripted and simulated randomly generated transformers using Cadence Virtuoso, Cadence EMX, and Python to train a model that will predict transformer geometries based on desired inputs and outputs.
+  - Created a 3-layer 32-neuron multi-layer perceptron neural network using Python to predict transformer geometry based on desired inputs and outputs, achieving a 90% accuracy.
+  - Wrote a Python algorithm to automate cascaded transformer-based low-noise amplifiers using the designed neural network.
 
-- **AI Engineer, Startup (Singapore)**  
+- **AI Engineer, Startup**  
   - Built a LangChain Agent process (Python) with custom tools to fact check which increased accuracy from 85% to 92%.
   - Created a Python program that transcribes live video streams from any platform with punctuation and speaker identification.
   - Presented the web app to Singapore’s Senior Minister of State for Communications and Information.
   - Filed patent for the fact checking process: U.S. Patent Application No.: 19/011,265.
-
-
-
-
 
 ---
 
@@ -35,7 +36,8 @@ I'm passionate about building the next generation of computing systems and bridg
 
 - **Programming:** Python (proficient), Java (proficient), C (proficient), Verilog (proficient); currently learning C++ & SystemVerilog  
 - **Machine Learning:** Model development and implementation, Neural Networks, LangChain Agents  
-- **Software-Hardware Integration:** Klayout and DRC scripting, Cadence Virtuoso scripting
+- **Design Software:** KiCAD, AMD Vivado, NX Siemens, Cadence Virtuoso, Cadence EMX, KLayout
+- **Hardware Skills**: PC Building, Embedded Systems Prototyping (Arduino, Microcontrollers)
 
 ---
 
