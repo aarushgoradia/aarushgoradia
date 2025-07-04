@@ -1,6 +1,6 @@
 ### Hi there 👋
-🌱 I’m currently a Junior in Electrical and Computer engineering interested in computer architecture!  
-🔭 I’m currently learning SystemVerilog and C++!
+🌱 I’m currently a Junior at Princeton studying Electrical and Computer Engineering interested in computer architecture!  
+🔭 I’m currently learning SystemVerilog and C++
 
 <!--
 **aarushgoradia/aarushgoradia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
