@@ -41,6 +41,6 @@ I'm passionate about building the next generation of computing systems and bridg
 ## 📈 Let’s Connect!
 
 I’m eager to network with professionals, researchers, and fellow students passionate about computer architecture and innovative tech.  
-[LinkedIn – coming soon!]
+Connect with me on [LinkedIn](https://www.linkedin.com/in/aarush-goradia-300216215/)!
 
 ---
