@@ -9,7 +9,7 @@ I'm passionate about building computing systems from the ground up — whether t
 
 ## 🧠 Interests
 
-- Computer Architecture (RISC-V, branch prediction, pipelining)
+- Computer Architecture & Verification
 - High-performance systems and low-level programming
 - Embedded design & digital signal processing
 - AI/ML-powered tooling for hardware workflows
