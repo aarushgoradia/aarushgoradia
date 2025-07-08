@@ -7,7 +7,7 @@ I'm passionate about building computing systems from the ground up — whether t
 
 ---
 
-## 🧠 Interests
+## Interests
 
 - Computer Architecture & Verification
 - High-performance systems and low-level programming
@@ -16,7 +16,7 @@ I'm passionate about building computing systems from the ground up — whether t
 
 ---
 
-## 🔧 Skills
+## Skills
 
 **Languages:** C++, Python, Java, C, Verilog, (learning SystemVerilog)  
 **Tools:** Cadence Virtuoso/EMX, KiCAD, KLayout, Vivado, NX Siemens  
