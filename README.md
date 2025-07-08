@@ -1,8 +1,23 @@
-# 👋 Hi, I'm Aarush
+# 👋 Hi, I'm Aarush Goradia
 
-🎓 Junior at Princeton University | ECE Major, CS & English Minors  
-💻 Passionate about building high-performance systems across hardware and software.
+🎓 Junior at Princeton University  
+📍 Electrical & Computer Engineering | Minors in Computer Science + English  
 
-🔧 **Languages**: Python, Java, C, Verilog, (learning C++, SystemVerilog)  
-🧠 **Interests**: Computer Architecture, Embedded Systems, ML-accelerated Design  
-📁 Check out my pinned repos below to see what I'm working on!
+I'm passionate about building computing systems from the ground up — whether that means designing RISC-V processors, writing low-level C++ for DSP, or exploring GPU pipelines. I care about performance, elegance, and bridging the hardware–software boundary.
+
+---
+
+## 🧠 Interests
+
+- Computer Architecture (RISC-V, branch prediction, pipelining)
+- High-performance systems and low-level programming
+- Embedded design & digital signal processing
+- AI/ML-powered tooling for hardware workflows
+
+---
+
+## 🔧 Skills
+
+**Languages:** C++, Python, Java, C, Verilog, (learning SystemVerilog)  
+**Tools:** Cadence Virtuoso/EMX, KiCAD, KLayout, Vivado, NX Siemens  
+**Domains:** Digital Design, Embedded Systems, ML Agents (LangChain), DSP  
