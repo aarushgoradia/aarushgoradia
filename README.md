@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aarush Goradia
+# 👋 Hi, I'm Aarush
 
 🎓 Junior at Princeton University  
 📍 Electrical & Computer Engineering | Minors in Computer Science + English  
