@@ -16,6 +16,5 @@
 
 ## Skills
 
-**Languages:** C++, Python, Java, C, Verilog, (learning SystemVerilog)  
+**Languages:** C++, Python, Java, C, Verilog, (learning SystemVerilog)   
 **Tools:** Cadence Virtuoso/EMX, KiCAD, KLayout, Vivado, NX Siemens  
-**Domains:** Digital Design, Embedded Systems, ML Agents (LangChain), DSP  
