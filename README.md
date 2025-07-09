@@ -3,8 +3,6 @@
 🎓 Junior at Princeton University  
 📍 Electrical & Computer Engineering | Minors in Computer Science + English  
 
-I'm passionate about building computing systems from the ground up — whether that means designing RISC-V processors, writing low-level C++ for DSP, or exploring GPU pipelines. I care about performance, elegance, and bridging the hardware–software boundary.
-
 ---
 
 ## Interests
