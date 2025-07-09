@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aarush
 
-🎓 Junior at Princeton University  
+🎓 Rising Junior at Princeton University | Currently Interning at Advanced Micro Foundry in Singapore
 📍 Electrical & Computer Engineering | Minors in Computer Science + English  
 
 ---
