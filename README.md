@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aarush
+# 👋 Hi, I'm [Aarush](aarushgoradia.com)
 
 🎓 Rising Junior at Princeton University | Currently Interning at Advanced Micro Foundry in Singapore  
 📍 Electrical & Computer Engineering | Minors in Computer Science + English  
