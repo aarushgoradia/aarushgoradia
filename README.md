@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aarush
 
-🎓 Rising Junior at Princeton University  
+🎓 Junior at Princeton University  
 📍 Electrical & Computer Engineering | Minors in Computer Science + English  
 
 ---
