@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aarush
 
-🎓 Junior at Princeton University  
+🎓 Senior at Princeton University  
 📍 Electrical & Computer Engineering | Minors in Computer Science + English  
 
 ---
@@ -16,5 +16,5 @@
 
 ## Skills
 
-**Languages:** C++, Python, Java, C, Verilog, (learning SystemVerilog)   
+**Languages:** C++, Python, Java, C, Verilog, SystemVerilog   
 **Tools:** Cadence Virtuoso/EMX, KiCAD, KLayout, Vivado, NX Siemens  
